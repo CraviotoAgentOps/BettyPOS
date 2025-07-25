@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014095392196",
+    "project_id": "bettypos-4e53f",
+    "storage_bucket": "bettypos-4e53f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014095392196:android:d282d09b5955b51c698891",
+        "android_client_info": {
+          "package_name": "com.betty.pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPcVkkvH_5LxxbyNUeuJgdEwIVntqX1Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
